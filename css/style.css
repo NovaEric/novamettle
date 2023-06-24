@@ -329,9 +329,9 @@ table {
 /* Common styles for menu button and menu-wrap */
 .menu-button,.menu-wrap {
 	position:fixed;
-	width:2.5em;
-	height:2.25em;
-	font-size:1.5em;
+	width:2em;
+	height:2em;
+	font-size:1.2em;
 	-webkit-transform:translate3d(1.5em,1.5em,0);
 	transform: translate3d(1.5em,1.5em,0);
 }
